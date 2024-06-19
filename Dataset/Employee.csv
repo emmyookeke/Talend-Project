@@ -1,0 +1,21 @@
+Id;Name;Department;StartDate;Salary
+1;John Smith;Sales;01-Mar-2012;20000
+2;Jane Roberts;Sales;05-Jun-2010;22500
+3;Paul Jones;Marketing;22-Jun-2010;30000
+4;Mark Jacobs;Sales;05-Apr-2010;22000
+5;Mary Stephenson;IT;13-Sep-2009;22500
+6;Steve Roberts;IT;14-Dec-2011;18000
+7;Margaret Johnson;CEO;30-Feb-2011;41000
+8;Paul Harrison;Sales;07-Nov-2009;19500
+9;Peter Pedlar;Admin;22-Dec-2012;21000
+10;Douglas Peterson;Admin;28-May-2011;21500
+11;John Smith;Sales;01-Mar-2012;20000
+12;Jane Roberts;Sales;05-Jun-2010;22500
+13;Paul Jones;Marketing;22-Jun-2010;30000
+14;Mark Jacobs;Sales;05-Apr-2010;22000
+15;Mary Stephenson;IT;13-Sep-2009;22500
+16;Steve Roberts;IT;14-Dec-2011;18000
+17;Margaret Johnson;CEO;30-Feb-2011;41000
+18;Paul Harrison;Sales;07-Nov-2009;19500
+19;Peter Pedlar;Admin;22-Dec-2012;21000
+20;Douglas Peterson;Admin;28-May-2011;21500
